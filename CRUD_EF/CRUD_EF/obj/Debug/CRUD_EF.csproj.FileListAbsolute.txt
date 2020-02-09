@@ -1,0 +1,14 @@
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\bin\Debug\CRUD_EF.exe.config
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\bin\Debug\CRUD_EF.exe
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\bin\Debug\CRUD_EF.pdb
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\bin\Debug\EntityFramework.dll
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\bin\Debug\EntityFramework.xml
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\obj\Debug\CRUD_EF.csprojAssemblyReference.cache
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\obj\Debug\CRUD_EF.Form1.resources
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\obj\Debug\CRUD_EF.Properties.Resources.resources
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\obj\Debug\CRUD_EF.csproj.GenerateResource.cache
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\obj\Debug\CRUD_EF.csproj.CopyComplete
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\obj\Debug\CRUD_EF.exe
+C:\Users\Rose\source\repos\CRUD_EF\CRUD_EF\obj\Debug\CRUD_EF.pdb
